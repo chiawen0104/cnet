@@ -2,7 +2,7 @@
 Programming assignments(coded by GO) of Introduction to Computer Networks, NTUEE, 2021 fall.
 
 ## Programming Assignments
-### PA1: unix command (no )
+### PA1: unix command (no program file)
 basic unix command practice (`ls`, `mv`, `mkdir`, `rm`, etc.)
 
 ### PA2: file access
